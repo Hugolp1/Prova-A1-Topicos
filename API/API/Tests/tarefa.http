@@ -6,9 +6,9 @@ POST http://localhost:5000/tarefas/cadastrar
 Content-Type: application/json
 
 {
-    "titulo": "Estudar Node.js",
-    "descricao": "Estudar Node.js para desenvolver aplicações web",
-    "categoriaId": "6d091456-5a2f-4b5a-98fc-f1a3b50a627d"
+    "titulo": "Testando",
+    "descricao": "Testando",
+    "categoriaId": "aa93f312-4545-429b-bfec-641a3e376882"
 }
 
 ### Alterar uma tarefa

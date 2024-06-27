@@ -6,5 +6,5 @@ POST http://localhost:5000/categoria/cadastrar
 Content-Type: application/json
 
 {
-    "nome": "Pessoal"
+    "nome": "Teste"
 }
